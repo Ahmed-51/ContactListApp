@@ -1,0 +1,29 @@
+.main{
+  margin-left: 420px;
+}
+.contact-card {
+    display: flex;
+    padding: 10px;
+    color: #ffffff;
+    background-color: rgb(42, 84, 104);
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 10px 10px 25px -16px rgba(0, 0, 0, 0.75);
+    border-radius: 10px;
+    max-width: 450px;
+    max-height: 128px;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 30px 0px rgba(0, 0, 0, 0.75);
+    padding-left: 40px;
+  }
+  
+  .contact-card p {
+    margin-left: 10px;
+    margin-top: 0;
+  }
+  
+  button {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding: 3px;
+  }
+  
